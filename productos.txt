@@ -1,0 +1,20 @@
+A1,lapiz,5,100
+B1,borrador,10,100
+C1,tijeras,15 100
+D1,hoja,1,100
+E1,saca puntas,7.5,100
+F1,pluma,5.5,100
+G1,calculadora,25.5 100
+H1,carpeta,6,100
+I1,crayola,3,100
+J1,engrapadora,30.5,100
+K1,clip,1.5,100
+L1,postit,1.5,100
+M1,usb,60,100
+N1,marcador,7.5,100
+O1,cuaderno,15,100
+P1,bloc,54.5,100
+Q1,color,2.5,100
+R1,marcatexto,12.5,100
+S1,hoja de color,3.5,100
+T1,grapa,.5,100
